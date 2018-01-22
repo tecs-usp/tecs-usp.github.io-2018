@@ -7,4 +7,11 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.
+
+Você pode entrar em contato conosco através do email [tecs@ime.usp.br](mailto:tecs@ime.usp.br).
+
+Caso tenha interesse em participar de nossas atividades, o nosso canal de informações principais é o [grupo do Telegram](https://t.me/tecsusp). Nele, compartilhamos informações como o horário e local das reuniões.
+
+Se quiser nos visitar, nossos encontros ocorrem no prédio CCSL do Instituto de Matemática e Estatística da USP. O endereço é: Rua do Matão, 1010 - Cidade Universitária, São Paulo - SP, 05508-090, Brasil.
+
+Não deixe de seguir nossa [página no Facebook](https://fb.com/tecs.usp)!
