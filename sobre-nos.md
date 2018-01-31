@@ -35,7 +35,7 @@ Encorajamos estudantes a encontrarem modos de combinar seu interesse pela ciênc
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="2u">
-			<span class="image fit"><img src="{{ "/images/bruna.JPG" | absolute_url }}" alt="" /></span>
+			<span class="image fit"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span>
 			Pessoa 1
 		</div>
 		<div class="2u">
