@@ -14,13 +14,13 @@ Ao longo da semana, foram realizadas três palestras, sempre no horário do almo
 
 ## A programação
 
-21/11 - Onde ética e tecnologia se encontram?, por Victor Veloso | Núcleo de Estudos em Tecnologia e Sociedade da USP
+21/11 - Onde ética e tecnologia se encontram?, por Victor Veloso : Núcleo de Estudos em Tecnologia e Sociedade da USP
 
 - Victor Veloso é estudante de Relações Internacionais na USP e pesquisador em diferentes temas referentes a tecnologia e sociedade. Sua pesquisa envolve principalmente temas como Vigilantismo, Governança de Algoritmos, Liberdade de Expressão na Internet e Cyberwar. Foi representante da juventude brasileira no Internet Governance Forum 2016 e atualmente é estagiário na área de Direitos Digitais do Instituto Brasileiro de Defesa do Consumidor (Idec). Também é um dos cofundadores e coordenadores do Núcleo de Estudos em Tecnologia e Sociedade da USP, instituição estudantil que tem como objetivo difundir e estimular o debate sobre temas ligados a tecnologia.
 
 -----------------------------------------
 
-22/11 - O ensino de Computação em comunidades periféricas, por Gilmar Cintra | Cedesp Santa Terezinha / ProgramArte
+22/11 - O ensino de Computação em comunidades periféricas, por Gilmar Cintra : Cedesp Santa Terezinha / ProgramArte
 
 - Gilmar Cintra é aluno de Ciência da Computação da Universidade de São Paulo e trabalha como desenvolvedor web interno para o Harvard Brazil Office em São Paulo. Durante a disciplina MAC0213, atividade curricular em comunidade, desenvolveu o projeto ProgramArte, que tem por objetivo ensinar programação e suas aplicações práticas para jovens, adultos e adolescentes residentes na comunidade da Brasilândia. Pensando na parcela da população excluída da revolução tecnológica por motivos socioeconômicos, o projeto busca quebrar essa barreira e profissionalizar alguns jovens, diminuindo assim os riscos sociais e mostrando uma nova alternativa para suas carreiras profissionais.
 
@@ -28,11 +28,11 @@ Ao longo da semana, foram realizadas três palestras, sempre no horário do almo
 
 24/11 - Painel: Iniciativas de Impacto Social
 
-► [Hacktivismo de transparência de dados](https://pt.slideshare.net/haydeesvab/hackativismo-e-transparncia-de-dados-82682026/), por Haydee Svab | Transparência Hacker e co-fundadora do PoliGNU
+► [Hacktivismo de transparência de dados](https://pt.slideshare.net/haydeesvab/hackativismo-e-transparncia-de-dados-82682026/), por Haydee Svab : Transparência Hacker e co-fundadora do PoliGNU
 
 Engenheira Civil com dupla formação em Arquitetura pela USP, mestra em Engenharia de Transportes (Poli-USP) e especialista em Democracia Participativa, Repúblicas e Movimentos Sociais (UFMG). Atualmente é CEO da ASK-AR, consultoria em análise de dados, conselheira no Conselho Participativo Municipal - Butantã no biênio 2016/2017, membro do Conselho Deliberativo da AEAMESP (Associação dos Engenheiros e Arquitetos de Metrô) no triênio 2017/2019. É membro da comunidade Transparência Hacker e co-fundadora do PoliGNU (Grupo de Estudos de Software Livre da Poli-USP), bem como do PoliGen (Grupo de Estudos de Gênero da Poli-USP).
 
-► ONGs e o trabalho voluntário, por André Navarro | membro da Poli Social
+► ONGs e o trabalho voluntário, por André Navarro : membro da Poli Social
 
 -----------------------------------------
 
