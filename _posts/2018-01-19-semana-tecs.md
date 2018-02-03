@@ -28,15 +28,14 @@ Ao longo da semana, foram realizadas três palestras, sempre no horário do almo
 
 24/11 - Painel: Iniciativas de Impacto Social
 
-- [Hacktivismo de transparência de dados](https://pt.slideshare.net/haydeesvab/hackativismo-e-transparncia-de-dados-82682026/), por Haydee Svab | Transparência Hacker e co-fundadora do PoliGNU
+► [Hacktivismo de transparência de dados](https://pt.slideshare.net/haydeesvab/hackativismo-e-transparncia-de-dados-82682026/), por Haydee Svab | Transparência Hacker e co-fundadora do PoliGNU
 
 Engenheira Civil com dupla formação em Arquitetura pela USP, mestra em Engenharia de Transportes (Poli-USP) e especialista em Democracia Participativa, Repúblicas e Movimentos Sociais (UFMG). Atualmente é CEO da ASK-AR, consultoria em análise de dados, conselheira no Conselho Participativo Municipal - Butantã no biênio 2016/2017, membro do Conselho Deliberativo da AEAMESP (Associação dos Engenheiros e Arquitetos de Metrô) no triênio 2017/2019. É membro da comunidade Transparência Hacker e co-fundadora do PoliGNU (Grupo de Estudos de Software Livre da Poli-USP), bem como do PoliGen (Grupo de Estudos de Gênero da Poli-USP).
 
-- ONGs e o trabalho voluntário, por André Navarro | membro da Poli Social
+► ONGs e o trabalho voluntário, por André Navarro | membro da Poli Social
 
 -----------------------------------------
 
 24/11 - Exibição e debate sobre o filme Code Girl
-► 16h às 18h00, sala B5
 
 - O filme documenta a vida de jovens mulheres de diversos países, como Brasil, Moldávia e Estados Unidos que participaram do Google Technovation Challenge 2015. O desafio reuniu 5.000 garotas de 60 países e ofereceu um prêmio de US$ 10.000. A produção capta a viagem destas programadoras e visa destacar a falta de mulheres na indústria. De acordo com os números, mais de 80% dos desenvolvedores de aplicativos são do sexo masculino. Como toda sessão do CinIME, haverá pipoca e refrigerante grátis.
