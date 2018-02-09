@@ -35,24 +35,24 @@ Encorajamos estudantes a encontrarem modos de combinar seu interesse pela ciênc
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="2u">
-			<span class="image fit"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span>
-			Pessoa 1
+			<span class="image fit"><img src="{{ "/images/tuts.jpg" | absolute_url }}" alt="" /></span>
+			Artur Magalhães
 		</div>
 		<div class="2u">
-			<span class="image fit"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span>
-			Pessoa 2
+			<span class="image fit"><img src="{{ "/images/bia.jpg" | absolute_url }}" alt="" /></span>
+			Beatriz Marouelli
 		</div>
 		<div class="2u">
-			<span class="image fit"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span>
-			Pessoa 3
+			<span class="image fit"><img src="{{ "/images/bruna.jpg" | absolute_url }}" alt="" /></span>
+			Bruna Thalenberg
 		</div>
 		<div class="2u">
-			<span class="image fit"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span>
-			Pessoa 4
+			<span class="image fit"><img src="{{ "/images/lauren.jpg" | absolute_url }}" alt="" /></span>
+			Eduardo Laurentino
 		</div>
 		<div class="2u">
-			<span class="image fit"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span>
-			Pessoa 5
+			<span class="image fit"><img src="{{ "/images/vitor.jpg" | absolute_url }}" alt="" /></span>
+			Vitor Santa Rosa
 		</div>
 		<div class="2u$">
 			<span class="image fit"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span>
