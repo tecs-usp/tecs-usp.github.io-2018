@@ -54,7 +54,7 @@ Encorajamos estudantes a encontrarem modos de combinar seu interesse pela ciênc
 			<span class="image fit"><img src="{{ "/images/lucas.jpg" | absolute_url }}" alt="" /></span>
 			Lucas Santos
 		</div>
-		<div class="2u">
+		<div class="2u$">
 			<span class="image fit"><img src="{{ "/images/vitor.jpg" | absolute_url }}" alt="" /></span>
 			Vitor Santa Rosa
 		</div>
