@@ -74,13 +74,5 @@ Encorajamos estudantes a encontrarem modos de combinar seu interesse pela ciênc
 			<span class="image fit"><img src="{{ "/images/vitor.jpg" | absolute_url }}" alt="" /></span>
 			Vitor Santa Rosa
 		</div>
-		<div class="2u">
-			<span class="image fit"><img src="{{ "/images/pholder.jpg" | absolute_url }}" alt="" /></span>
-			
-		</div>
-		<div class="2u$">
-			<span class="image fit"><img src="{{ "/images/pholder.jpg" | absolute_url }}" alt="" /></span>
-			
-		</div>
 	</div>
 </div>
