@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:   "Debates: Dilemas éticos e responsabilidade tecnológica"
+title:   "Debates: ética e tecnologia"
 date:    2018-01-19
 excerpt: "Realizeramos, neste primeiro semestre de 2018, um ciclo de palestras-debates com o intuito de discutir para discutir temas tão atuais quanto necessários sobre responsabilidade tecnológica. Confira a programação e participe!"
 image:   "/images/poster-etica.jpg"
