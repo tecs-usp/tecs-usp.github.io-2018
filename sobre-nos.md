@@ -34,6 +34,10 @@ Encorajamos estudantes a encontrarem modos de combinar seu interesse pela ciênc
 
 <div class="box alt">
 	<div class="row 50% uniform">
+	        <div class="2u">
+			<span class="image fit"><img src="{{ "/images/kuba.jpg" | absolute_url }}" alt="" /></span>
+			Arthur Kubagawa
+		</div>
 		<div class="2u">
 			<span class="image fit"><img src="{{ "/images/tuts.jpg" | absolute_url }}" alt="" /></span>
 			Artur Magalhães
@@ -47,40 +51,36 @@ Encorajamos estudantes a encontrarem modos de combinar seu interesse pela ciênc
 			Bruna Thalenberg
 		</div>
 		<div class="2u">
+			<span class="image fit"><img src="{{ "/images/daniel.jpg" | absolute_url }}" alt="" /></span>
+			Daniel Nunes
+		</div>
+		<div class="2u">
 			<span class="image fit"><img src="{{ "/images/lauren.jpg" | absolute_url }}" alt="" /></span>
 			Eduardo Laurentino
 		</div>
 		<div class="2u">
+			<span class="image fit"><img src="{{ "/images/isa.jpg" | absolute_url }}" alt="" /></span>
+			Isabela Blucher
+		</div>
+		<div class="2u">
 			<span class="image fit"><img src="{{ "/images/lucas.jpg" | absolute_url }}" alt="" /></span>
 			Lucas Santos
+		</div>
+		<div class="2u">
+			<span class="image fit"><img src="{{ "/images/veronica.jpg" | absolute_url }}" alt="" /></span>
+			Verônica Stocco
 		</div>
 		<div class="2u$">
 			<span class="image fit"><img src="{{ "/images/vitor.jpg" | absolute_url }}" alt="" /></span>
 			Vitor Santa Rosa
 		</div>
 		<div class="2u">
-			<span class="image fit"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span>
-			Pessoa 1
-		</div>
-		<div class="2u">
-			<span class="image fit"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span>
-			Pessoa 2
-		</div>
-		<div class="2u">
-			<span class="image fit"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span>
-			Pessoa 3
-		</div>
-		<div class="2u">
-			<span class="image fit"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span>
-			Pessoa 4
-		</div>
-		<div class="2u">
-			<span class="image fit"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span>
-			Pessoa 5
+			<span class="image fit"><img src="{{ "/images/pholder.jpg" | absolute_url }}" alt="" /></span>
+			
 		</div>
 		<div class="2u$">
-			<span class="image fit"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span>
-			Pessoa 6
+			<span class="image fit"><img src="{{ "/images/pholder.jpg" | absolute_url }}" alt="" /></span>
+			
 		</div>
 	</div>
 </div>
