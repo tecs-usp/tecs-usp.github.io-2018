@@ -3,7 +3,7 @@ layout:  post
 title:   "Debates: ética e tecnologia"
 date:    2018-03-08
 excerpt: "Realizeramos, neste primeiro semestre de 2018, um ciclo de palestras-debates com o intuito de discutir para discutir temas tão atuais quanto necessários sobre responsabilidade tecnológica. Confira a programação e participe!"
-image:   "/images/poster-etica.jpg"
+image:   "images/poster-etica.jpg"
 comments: true
 ---
 

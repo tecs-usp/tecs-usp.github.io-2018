@@ -3,7 +3,7 @@ layout:  post
 title:   "Semana de Computação Social"
 date:    2018-01-19
 excerpt: "Nosso primeiro evento realizado foi a Semana de Computação Social, em novembro de 2017. Leia mais sobre as palestras e debates."
-image:   "/images/semana.jpg"
+image:   "images/semana.jpg"
 comments: true
 ---
 
